@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RP235X:RP2350A"
 			(at -6.35 0 0)
 			(effects
 				(font
